@@ -63,7 +63,7 @@ Option 2: Du kannst die Funktion `nrow()` verwenden und `hunde` als Argument an 
   <summary>Lösung</summary>
 
 Option 1:
-![Anzahl Hunde](/assets/02_rows_and_columns.png 'Anzahl Hunde')
+![Anzahl Hunde](/assets/03_rows_and_columns.png 'Anzahl Hunde')
 
 Option 2:
 
