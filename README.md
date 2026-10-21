@@ -6,7 +6,7 @@ da Moodle für mich nicht erreichbar ist und ich weiter üben wollte, habe ich h
 
 ## Aufgabe 1: Datensatz importieren
 
-Importiere die Datei [hunde.txt](/hunde.txt) über "Import Dataset" in RStudio.
+Importiere die Datei `hunde.txt` [[Link zu GoogleDrive](https://drive.google.com/file/d/1SDusWl4yW4IuhA1tldsla80khNHlOV3D/view?usp=sharing)] über "Import Dataset" in RStudio.
 
 <details>
   <summary>Lösung</summary>
