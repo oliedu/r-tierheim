@@ -120,7 +120,7 @@ Ergebnis:
 
 Finde heraus, ob es Hunde gibt, bei denen die Spalte `rasse` einen fehlenden Wert hat.
 
-Tipp: Verwende die Funktion `anyNA`.
+Tipp: Verwende die Funktion `anyNA()`.
 
 <details>
   <summary>Lösung</summary>
