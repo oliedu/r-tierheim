@@ -1,0 +1,51 @@
+name,rasse,alter_jahre,geschlecht,kastriert,groesse,tage_im_tierheim,bewegungsbedarf,kinderfreundlichkeit,hunde_vertraeglichkeit
+Bella,Labrador,4,w,TRUE,55,23,3,3,3
+Rocky,Schäferhund,7,m,TRUE,62,87,3,2,2
+Luna,Mischling,2,w,FALSE,38,12,2,3,3
+Benni,NA,5,m,TRUE,58,45,3,3,2
+Maja,Dackel,9,w,TRUE,25,104,2,3,2
+Buddy,Border Collie,1,m,FALSE,48,8,3,2,3
+Lilly,Golden Retriever,6,w,TRUE,53,31,2,3,3
+Balu,Rottweiler,3,m,FALSE,64,56,3,1,1
+Nala,Beagle,8,w,TRUE,36,73,2,3,3
+Sam,Jack Russell Terrier,2,m,FALSE,30,19,3,2,2
+Emma,Pudel,5,w,TRUE,32,14,2,3,3
+Max,Schäferhund,10,m,TRUE,67,156,2,2,2
+Frieda,Mischling,3,w,FALSE,42,27,3,2,3
+Oskar,Husky,6,m,TRUE,59,92,3,1,2
+Hercules,Chihuahua,1,m,FALSE,24,6,2,2,1
+Teddy,Cocker Spaniel,4,m,TRUE,39,38,2,3,3
+Amy,Labrador,7,w,TRUE,56,64,2,3,3
+Kalle,Australian Shepherd,2,m,FALSE,51,17,3,2,3
+Susi,Dackel,11,w,TRUE,24,183,1,3,2
+Finn,Mischling,3,m,FALSE,45,22,3,2,2
+Ronja,Australian Shepherd,5,w,TRUE,49,49,3,3,3
+Willi,Mischling,8,m,TRUE,41,118,2,1,2
+Lotte,Beagle,2,w,FALSE,34,11,2,3,3
+Charly,Jack Russell Terrier,6,m,TRUE,29,76,3,2,2
+Kira,Schäferhund,4,w,FALSE,61,34,3,1,2
+Friedrich,Mischling,1,m,FALSE,33,9,2,3,3
+Daisy,Golden Retriever,9,w,TRUE,54,141,2,3,3
+Benno,Boxer,5,m,TRUE,60,58,3,2,1
+Cookie,Pudel,3,w,FALSE,31,2,2,3,3
+Anton,Labrador,12,m,TRUE,57,201,1,3,2
+Zora,Mischling,6,w,TRUE,44,83,2,2,3
+Henry,Husky,2,m,FALSE,56,25,3,2,2
+Paula,NA,7,w,TRUE,38,97,2,3,3
+Benny,Rottweiler,4,m,FALSE,66,42,3,1,1
+Flocke,Malteser,1,w,FALSE,22,7,2,3,2
+Theo,Border Collie,5,m,TRUE,50,69,3,2,3
+Coco,Mischling,10,w,TRUE,35,132,1,3,2
+Aron,Schäferhund,3,m,FALSE,63,29,3,2,2
+Mimi,Mischling,4,w,TRUE,19,53,1,2,1
+Luna,Labrador,8,w,TRUE,50,110,2,3,3
+Wilma,Mischling,2,w,FALSE,40,18,3,3,2
+Fiete,Beagle,6,m,TRUE,37,61,2,2,3
+Zuma,Golden Retriever,3,w,FALSE,52,21,3,3,3
+Moritz,Schäferhund,9,m,TRUE,65,174,2,1,2
+Sally,Dackel,5,w,TRUE,26,44,2,3,2
+Jack,Jack Russell Terrier,1,m,FALSE,28,13,3,2,3
+Frida,Boxer,7,w,TRUE,57,89,2,2,2
+Balou,NA,4,m,FALSE,46,36,3,1,2
+Holly,Labrador,2,w,FALSE,51,15,3,3,3
+Otto,Rottweiler,11,m,TRUE,68,220,1,1,1
